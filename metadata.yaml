@@ -1,0 +1,30 @@
+_repo: '----_26739'
+_version: 0.1.0
+alternative_title: Xue Yue Mei zhuan
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chen, Lang, active 18th century
+    aliases:
+    - Gujunyangren
+    - Jinghuyisou
+    - 陳朗
+    - Chen, Xiaoshan
+    gutenberg_agent_id: '32215'
+    url: http://www.gutenberg.org/2009/agents/32215
+description: ''
+gutenberg_issued: '2008-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26739'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Erotic stories, Chinese'
+title: 雪月梅傳
+url: http://www.gutenberg.org/ebooks/26739
